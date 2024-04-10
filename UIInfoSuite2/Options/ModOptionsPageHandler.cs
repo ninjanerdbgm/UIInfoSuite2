@@ -98,6 +98,7 @@ internal class ModOptionsPageHandler : IDisposable
       locationOfTownsfolk,
       showWhenAnimalNeedsPet,
       showCalendarAndBillboardOnGameMenuButton,
+      showScarecrowAndSprinklerRange,
       showCropAndBarrelTime,
       experienceBar,
       showItemHoverInformation,
@@ -107,7 +108,8 @@ internal class ModOptionsPageHandler : IDisposable
       showQueenOfSauceIcon,
       showToolUpgradeStatus,
       showRobinBuildingStatusIcon,
-      showSeasonalBerry
+      showSeasonalBerry,
+      showTodaysGift
     };
 
     var whichOption = 1;
